@@ -51,6 +51,7 @@ module.exports = {
     'no-unused-expressions': 'off',
     'no-param-reassign': 'off',
     'no-shadow': 'off',
-    'no-bitwise': 'off'
+    'no-bitwise': 'off',
+    'linebreak-style':[0,'error','windows'],
   }
 }
