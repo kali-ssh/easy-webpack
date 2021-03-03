@@ -48,7 +48,7 @@
     "file-loader": "^1.1.6",
     "friendly-errors-webpack-plugin": "^1.6.1",
     "glob": "^7.1.1",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^3.0.1",
     "rimraf": "^2.6.1",
     "shx": "^0.2.2",
     "stylus": "^0.54.5",
